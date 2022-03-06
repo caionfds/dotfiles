@@ -83,6 +83,9 @@ export PATH=$PATH:/home/novaisc/.local/bin
 
 #EDITOR
 export EDITOR=$HOME/.local/bin/lvim
+
+JAVA_HOME="/usr/lib/jvm/java-11-openjdk"
+export JAVA_HOME
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
